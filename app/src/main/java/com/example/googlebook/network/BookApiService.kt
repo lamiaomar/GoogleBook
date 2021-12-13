@@ -31,4 +31,6 @@ object MoviesApi {
     val retrofitService: BookApiService by lazy {
         retrofit.create(BookApiService::class.java)
     }
+    ///قفثقفثقثي
+    //ٌ[]ٍلأ][لأ][لأ][klk
 }
